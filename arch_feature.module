@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Arch Feature feature.
+ */
+
+include_once 'arch_feature.features.inc';
